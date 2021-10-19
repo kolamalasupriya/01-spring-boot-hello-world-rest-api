@@ -8,7 +8,6 @@
 	<artifactId>01-spring-boot-hello-world-rest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>Sample Application-7</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
